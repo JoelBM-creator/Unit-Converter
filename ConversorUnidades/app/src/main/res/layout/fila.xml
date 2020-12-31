@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start"
+    android:background="@color/black"
+    android:fadingEdge="none"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:shadowColor="@color/purple_500">
+
+    <ImageView
+        android:id="@+id/iconoItem"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="@string/imageDesc"
+        android:src="@drawable/capacidadhdd" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingStart="5dp"
+        android:paddingLeft="5dp"
+        android:paddingEnd="5dp"
+        android:paddingRight="5dp">
+
+        <TextView
+            android:id="@+id/tituloItem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/unidad"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

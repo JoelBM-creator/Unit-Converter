@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="unidad">Unidades</string>
+    <string name="imageDesc">Icono de la unidad</string>
+    <string name="capacidad">Capacidad HDD</string>
+    <string name="distancia">Distancia</string>
+    <string name="liquido">Liquido</string>
+    <string name="peso">Peso</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="tituloCapacidad">Conversor de Capacidad</string>
+    <string name="tituloPeso">Conversor de Peso</string>
+    <string name="tituloLiquido">Conversor de Liquido</string>
+    <string name="tituloDistancia">Conversor de Distancia</string>
+    <string name="tituloTemperatura">Conversor de Temperatura</string>
+    <string name="cantidad">Añada un valor</string>
+    <string name="selccionarConversion">Seleccione una opción para la conversión:</string>
+    <string name="seleccionarUnidad">Seleccionar unidad:</string>
+    <string name="transformarA">Transformar a:</string>
+    <string name="convertir">Convertir</string>
+    <string name="errorSp1">Selecciene una opción que desea seleccionar.</string>
+    <string name="errorSp2">Selecciene una opción a convertir.</string>
+    <string name="errorValor">Debe introducir un valor, que no sea 0.</string>
+</resources>

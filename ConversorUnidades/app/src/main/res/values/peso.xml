@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidadPeso">
+        <item>Seleccione una unidad</item>
+        <item>Miligramo</item>
+        <item>Centigramo</item>
+        <item>Decigramo</item>
+        <item>Gramo</item>
+        <item>Decagramo</item>
+        <item>Hectogramo</item>
+        <item>Kilogramo</item>
+        <item>Miriagramo</item>
+        <item>Quintal</item>
+        <item>Tonelada</item>
+    </string-array>
+</resources>

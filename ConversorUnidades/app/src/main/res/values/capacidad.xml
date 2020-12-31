@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidadCapacidad">
+        <item>Seleccione una unidad</item>
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>KiloByte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+        <item>Petabyte</item>
+        <item>Exabyte</item>
+        <item>Zetayte</item>
+        <item>Yottabyte</item>
+        <item>Brontobyte</item>
+        <item>Geopbyte</item>
+    </string-array>
+</resources>

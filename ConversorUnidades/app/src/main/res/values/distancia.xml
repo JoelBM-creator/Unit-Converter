@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidadDistancia">
+        <item>Seleccione una unidad</item>
+        <item>Milímetro</item>
+        <item>Centímetro</item>
+        <item>Decímetro</item>
+        <item>Metro</item>
+        <item>Decámetro</item>
+        <item>Hectómetro</item>
+        <item>Kilómetro</item>
+        <item>Miriámetro</item>
+    </string-array>
+</resources>

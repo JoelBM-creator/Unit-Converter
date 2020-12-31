@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidadLiquido">
+        <item>Seleccione una unidad</item>
+        <item>Mililitro</item>
+        <item>Centilitro</item>
+        <item>Decilitro</item>
+        <item>Litro</item>
+        <item>Decalitro</item>
+        <item>Hectolitro</item>
+        <item>Kilolitro</item>
+    </string-array>
+</resources>
